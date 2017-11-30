@@ -1,0 +1,156 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, May 17, 2017 10:36:53 AM
+   Source : C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker\bin\
+     Dest : C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker\App_Data\NuGetBackup\20170517-103653\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  91	C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker\bin\
+	    New File  		  102912	Antlr3.Runtime.dll  0%  100%  
+	    New File  		    4152	ApplicationInsights.config  0%  100%  
+	    New File  		  144384	AutoMapper.dll  0%   90%  100%  
+	    New File  		   28160	AutoMapper.Net4.dll  0%  100%  
+	    New File  		  118784	businesslogic.dll  0%  100%  
+	    New File  		  147456	ClientDependency.Core.dll  0%   88%  100%  
+	    New File  		   23552	ClientDependency.Core.Mvc.dll  0%  100%  
+	    New File  		  512000	cms.dll  0%   25%   51%   76%  100%  
+	    New File  		   52224	controls.dll  0%  100%  
+	    New File  		  122880	CookComputing.XmlRpcV2.dll  0%  100%  
+	    New File  		   4.9 m	EntityFramework.dll  0%   10%   20%   30%   40%   50%   60%   70%   80%   90%  100%  
+	    New File  		  621264	EntityFramework.SqlServer.dll  0%   42%   84%  100%  
+	    New File  		   98816	Examine.dll  0%  100%  
+	    New File  		    6144	Fanoe.dll  0%  100%  
+	    New File  		  134656	HtmlAgilityPack.dll  0%   97%  100%  
+	    New File  		  200704	ICSharpCode.SharpZipLib.dll  0%   65%  100%  
+	    New File  		  178176	ImageProcessor.dll  0%   73%  100%  
+	    New File  		  112128	ImageProcessor.Web.dll  0%  100%  
+	    New File  		   24576	interfaces.dll  0%  100%  
+	    New File  		   15872	Log4Net.Async.dll  0%  100%  
+	    New File  		  258048	log4net.dll  0%   50%  100%  
+	    New File  		  786432	Lucene.Net.dll  0%   33%   66%  100%  
+	    New File  		   54784	MarkdownSharp.dll  0%  100%  
+	    New File  		   1.7 m	Microsoft.AI.Agent.Intercept.dll  0%   14%   28%   42%   56%   71%   85%   99%  100%  
+	    New File  		   55552	Microsoft.AI.DependencyCollector.dll  0%  100%  
+	    New File  		   66824	Microsoft.AI.PerfCounterCollector.dll  0%  100%  
+	    New File  		   77072	Microsoft.AI.ServerTelemetryChannel.dll  0%  100%  
+	    New File  		   51904	Microsoft.AI.Web.dll  0%  100%  
+	    New File  		   36584	Microsoft.AI.WindowsServer.dll  0%  100%  
+	    New File  		   11264	Microsoft.ApplicationBlocks.Data.dll  0%  100%  
+	    New File  		  149752	Microsoft.ApplicationInsights.dll  0%   87%  100%  
+	    New File  		  171672	Microsoft.AspNet.Identity.Core.dll  0%   76%  100%  
+	    New File  		   77472	Microsoft.AspNet.Identity.EntityFramework.dll  0%  100%  
+	    New File  		   54944	Microsoft.AspNet.Identity.Owin.dll  0%  100%  
+	    New File  		  346848	Microsoft.AspNet.SignalR.Core.dll  0%   37%   75%  100%  
+	    New File  		   3.8 m	Microsoft.CodeAnalysis.CSharp.dll  0%   13%   26%   39%   52%   65%   78%   91%  100%  
+	    New File  		   1.6 m	Microsoft.CodeAnalysis.dll  0%   15%   30%   45%   60%   76%   91%  100%  
+	    New File  		   29344	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll  0%  100%  
+	    New File  		    1805	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml  0%  100%  
+	    New File  		   41232	Microsoft.IO.RecyclableMemoryStream.dll  0%  100%  
+	    New File  		  101032	Microsoft.Owin.dll  0%  100%  
+	    New File  		  133288	Microsoft.Owin.Host.SystemWeb.dll  0%   98%  100%  
+	    New File  		   36520	Microsoft.Owin.Security.Cookies.dll  0%  100%  
+	    New File  		   53416	Microsoft.Owin.Security.dll  0%  100%  
+	    New File  		   36520	Microsoft.Owin.Security.Facebook.dll  0%  100%  
+	    New File  		   55984	Microsoft.Owin.Security.Google.dll  0%  100%  
+	    New File  		   36528	Microsoft.Owin.Security.MicrosoftAccount.dll  0%  100%  
+	    New File  		   77488	Microsoft.Owin.Security.OAuth.dll  0%  100%  
+	    New File  		   44208	Microsoft.Owin.Security.Twitter.dll  0%  100%  
+	    New File  		   45416	Microsoft.Web.Infrastructure.dll  0%  100%  
+	    New File  		  396288	MiniProfiler.dll  0%   33%   66%   99%  100%  
+	    New File  		  424448	MySql.Data.dll  0%   30%   61%   92%  100%  
+	    New File  		  513536	Newtonsoft.Json.dll  0%   25%   51%   76%  100%  
+	    New File  		    4608	Owin.dll  0%  100%  
+	    New File  		   10240	Semver.dll  0%  100%  
+	    New File  		   19968	SQLCE4Umbraco.dll  0%  100%  
+	    New File  		  204544	System.Collections.Immutable.dll  0%   64%  100%  
+	    New File  		  470696	System.Data.SqlServerCe.dll  0%   27%   55%   83%  100%  
+	    New File  		  240808	System.Data.SqlServerCe.Entity.dll  0%   54%  100%  
+	    New File  		   20720	System.Diagnostics.Tracing.dll  0%  100%  
+	    New File  		  185544	System.Net.Http.Formatting.dll  0%   70%  100%  
+	    New File  		  262896	System.Reflection.Metadata.dll  0%   49%   99%  100%  
+	    New File  		   27840	System.Runtime.dll  0%  100%  
+	    New File  		   23808	System.Runtime.InteropServices.dll  0%  100%  
+	    New File  		  179104	System.Threading.Tasks.Dataflow.dll  0%   73%  100%  
+	    New File  		  139976	System.Web.Helpers.dll  0%   93%  100%  
+	    New File  		  471240	System.Web.Http.dll  0%   27%   55%   83%  100%  
+	    New File  		   82120	System.Web.Http.WebHost.dll  0%  100%  
+	    New File  		  566472	System.Web.Mvc.dll  0%   46%   92%  100%  
+	    New File  		   70864	System.Web.Optimization.dll  0%  100%  
+	    New File  		  272072	System.Web.Razor.dll  0%   48%   96%  100%  
+	    New File  		   41672	System.Web.WebPages.Deployment.dll  0%  100%  
+	    New File  		  211656	System.Web.WebPages.dll  0%   61%  100%  
+	    New File  		   39624	System.Web.WebPages.Razor.dll  0%  100%  
+	    New File  		  192512	TidyNet.dll  0%   68%  100%  
+	    New File  		   24064	TwoWayPicker.Core.dll  0%  100%  
+	    New File  		   65024	TwoWayPicker.Core.pdb  0%  100%  
+	    New File  		    5120	TwoWayPicker.dll  0%  100%  
+	    New File  		   29189	TwoWayPicker.dll.config  0%  100%  
+	    New File  		   13824	TwoWayPicker.pdb  0%  100%  
+	    New File  		   2.3 m	Umbraco.Core.dll  0%   20%   41%   62%   83%  100%  
+	    New File  		   38400	umbraco.DataLayer.dll  0%  100%  
+	    New File  		   2.1 m	umbraco.dll  0%   23%   46%   70%   93%  100%  
+	    New File  		  372736	umbraco.editorControls.dll  0%   35%   70%  100%  
+	    New File  		  131584	umbraco.MacroEngines.dll  0%   99%  100%  
+	    New File  		   98304	Umbraco.ModelsBuilder.dll  0%  100%  
+	    New File  		   38400	umbraco.providers.dll  0%  100%  
+	    New File  		   57344	Umbraco.Web.UI.dll  0%  100%  
+	    New File  		   59904	UmbracoExamine.dll  0%  100%  
+	    New File  		   22528	UrlRewritingNet.UrlRewriter.dll  0%  100%  
+	    New File  		   1.2 m	WebGrease.dll  0%   20%   41%   61%   82%  100%  
+	  New Dir          6	C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker\bin\amd64\
+	    New File  		  464040	sqlceca40.dll  0%   28%   56%   84%  100%  
+	    New File  		  107176	sqlcecompact40.dll  0%  100%  
+	    New File  		  155304	sqlceer40EN.dll  0%   84%  100%  
+	    New File  		   81576	sqlceme40.dll  0%  100%  
+	    New File  		  909992	sqlceqp40.dll  0%   28%   57%   86%  100%  
+	    New File  		  562344	sqlcese40.dll  0%   46%   93%  100%  
+	  New Dir          3	C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker\bin\amd64\Microsoft.VC90.CRT\
+	    New File  		    1862	Microsoft.VC90.CRT.manifest  0%  100%  
+	    New File  		  624448	msvcr90.dll  0%   41%   83%  100%  
+	    New File  		     406	README_ENU.txt  0%  100%  
+	  New Dir         12	C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker\bin\roslyn\
+	    New File  		   41608	csc.exe  0%  100%  
+	    New File  		   85192	Microsoft.Build.Tasks.CodeAnalysis.dll  0%  100%  
+	    New File  		   3.8 m	Microsoft.CodeAnalysis.CSharp.dll  0%   13%   26%   39%   52%   65%   78%   91%  100%  
+	    New File  		   1.6 m	Microsoft.CodeAnalysis.dll  0%   15%   30%   45%   60%   76%   91%  100%  
+	    New File  		   4.6 m	Microsoft.CodeAnalysis.VisualBasic.dll  0%   10%   21%   32%   42%   53%   64%   74%   85%   96%  100%  
+	    New File  		    6416	Microsoft.CSharp.Core.targets  0%  100%  
+	    New File  		    5846	Microsoft.VisualBasic.Core.targets  0%  100%  
+	    New File  		  204544	System.Collections.Immutable.dll  0%   64%  100%  
+	    New File  		  262896	System.Reflection.Metadata.dll  0%   49%   99%  100%  
+	    New File  		   41608	vbc.exe  0%  100%  
+	    New File  		   63648	VBCSCompiler.exe  0%  100%  
+	    New File  		     563	VBCSCompiler.exe.config  0%  100%  
+	  New Dir          6	C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker\bin\x86\
+	    New File  		  350376	sqlceca40.dll  0%   37%   74%  100%  
+	    New File  		   91304	sqlcecompact40.dll  0%  100%  
+	    New File  		  154792	sqlceer40EN.dll  0%   84%  100%  
+	    New File  		   67752	sqlceme40.dll  0%  100%  
+	    New File  		  643240	sqlceqp40.dll  0%   40%   81%  100%  
+	    New File  		  406696	sqlcese40.dll  0%   32%   64%   96%  100%  
+	  New Dir          3	C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker\bin\x86\Microsoft.VC90.CRT\
+	    New File  		    1860	Microsoft.VC90.CRT.manifest  0%  100%  
+	    New File  		  653120	msvcr90.dll  0%   40%   80%  100%  
+	    New File  		     406	README_ENU.txt  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         5         1         0         0         0
+   Files :       121       121         0         0         0         0
+   Bytes :   44.80 m   44.80 m         0         0         0         0
+   Times :   0:00:02   0:00:02                       0:00:00   0:00:00
+
+
+   Speed :            18124802 Bytes/sec.
+   Speed :            1037.109 MegaBytes/min.
+   Ended : Wednesday, May 17, 2017 10:36:56 AM
+

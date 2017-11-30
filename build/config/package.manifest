@@ -1,0 +1,65 @@
+{
+  "propertyEditors": [
+    {
+      "name": "TwoWayPicker",
+      "alias": "TwoWayPicker",
+      "editor": {
+        "valueType": "STRING",
+        "view": "~/App_Plugins/TwoWayPicker/views/two.way.picker.html"
+      },
+      "prevalues": {
+        "fields": [
+          {
+            "description": "",
+            "key": "startNode",
+            "label": "Node type",
+            "view": "treesource"
+          },
+          {
+            "description":  "",
+            "key": "docTypePropertyMap",
+            "label": "Choose the doc type and other two way picker property",
+            "view": "~/App_Plugins/TwoWayPicker/views/doctypePropertyPrevalueEditor.html"
+          },
+
+          {
+            "description": "",
+            "key": "minNumber",
+            "label": "Minimum number of items",
+            "view": "number"
+          },
+          {
+            "description": "",
+            "key": "maxNumber",
+            "label": "Maximum number of items",
+            "view": "number"
+          },
+          {
+            "description": "",
+            "key": "showOpenButton",
+            "label": "Show open button",
+            "view": "boolean"
+          },
+          {
+            "description": "",
+            "key": "showEditButton",
+            "label": "Show edit button (this feature is in preview!)",
+            "view": "boolean"
+          },
+          {
+            "description": "",
+            "key": "showPathOnHover",
+            "label": "Show path when hovering items",
+            "view": "boolean"
+          }
+        ]
+      }
+    }
+  ],
+  "css": [
+    "~/App_Plugins/TwoWayPicker/css/two.way.picker.css"
+  ],
+  "javascript": [
+    "~/App_Plugins/TwoWayPicker/js/two.way.picker.js"  ]
+}
+

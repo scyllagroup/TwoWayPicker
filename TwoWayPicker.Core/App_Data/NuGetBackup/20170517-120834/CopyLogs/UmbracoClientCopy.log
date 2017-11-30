@@ -1,0 +1,1232 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, May 17, 2017 12:09:03 PM
+   Source : C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\
+     Dest : C:\Projects\Umbraco-Two-Way-Picker\TwoWayPicker.Core\Umbraco_Client\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /IS /IT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\
+	                   7	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Application\
+	    Same      		   13503	Extensions.js
+	    Same      		    2417	HistoryManager.js
+	    Same      		     839	NamespaceManager.js
+	    Same      		   21957	UmbracoApplicationActions.js
+	    Same      		   12833	UmbracoClientManager.js
+	    Same      		     374	UmbracoUtils.js
+	    Same      		    2060	UrlEncoder.js
+	                  12	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Application\JQuery\
+	    Same      		    2057	jquery-fieldselection.js
+	    Same      		   30336	jquery.autocomplete.js
+	    Same      		    5941	jquery.ba-bbq.min.js
+	    Same      		    4344	jquery.cookie.js
+	    Same      		    3178	jquery.hotkeys.js
+	    Same      		    6992	jquery.idle-timer.js
+	    Same      		    1304	jquery.metadata.min.js
+	    Same      		     165	jquery.noconflict-invoke.js
+	    Same      		    2749	jquery.unobtrusive-ajax.min.js
+	    Same      		   21496	jquery.validate.min.js
+	    Same      		    3745	jquery.validate.unobtrusive.min.js
+	    Same      		     255	VerticalAlign.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\CodeArea\
+	    Same      		    6126	javascript.js
+	    Same      		     305	styles.css
+	    Same      		    6997	UmbracoEditor.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Colorpicker\
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Colorpicker\Css\
+	    Same      		    3367	colorpicker.css
+	                  26	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Colorpicker\Images\
+	    Same      		      49	blank.gif
+	    Same      		    1897	colorpicker_background.png
+	    Same      		     532	colorpicker_hex.png
+	    Same      		     970	colorpicker_hsb_b.png
+	    Same      		    1012	colorpicker_hsb_h.png
+	    Same      		    1171	colorpicker_hsb_s.png
+	    Same      		      86	colorpicker_indic.gif
+	    Same      		   10355	colorpicker_overlay.png
+	    Same      		     970	colorpicker_rgb_b.png
+	    Same      		    1069	colorpicker_rgb_g.png
+	    Same      		    1066	colorpicker_rgb_r.png
+	    Same      		      78	colorpicker_select.gif
+	    Same      		     984	colorpicker_submit.png
+	    Same      		    1916	custom_background.png
+	    Same      		     562	custom_hex.png
+	    Same      		    1097	custom_hsb_b.png
+	    Same      		     970	custom_hsb_h.png
+	    Same      		    1168	custom_hsb_s.png
+	    Same      		      86	custom_indic.gif
+	    Same      		    1008	custom_rgb_b.png
+	    Same      		    1069	custom_rgb_g.png
+	    Same      		    1018	custom_rgb_r.png
+	    Same      		     997	custom_submit.png
+	    Same      		     506	select.png
+	    Same      		     518	select2.png
+	    Same      		     315	slider.png
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Colorpicker\Js\
+	    Same      		   17175	colorpicker.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\ContextMenu\
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\ContextMenu\Css\
+	    Same      		    4026	jquery.contextMenu.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\ContextMenu\Js\
+	    Same      		   62773	jquery.contextMenu.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Datepicker\
+	                  10	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Datepicker\Aqua\
+	    Same      		      89	active-bg.gif
+	    Same      		      85	dark-bg.gif
+	    Same      		      89	hover-bg.gif
+	    Same      		      49	menuarrow.gif
+	    Same      		     110	normal-bg.gif
+	    Same      		     110	rowhover-bg.gif
+	    Same      		     116	status-bg.gif
+	    Same      		    4941	theme.css
+	    Same      		     116	title-bg.gif
+	    Same      		    1122	today-bg.gif
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Datepicker\Images\
+	    Same      		     674	calPickerIcon.png
+	    Same      		     633	calPickerIconHover.png
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\DateTimePicker\
+	    Same      		   20315	datetimepicker.css
+	    Same      		   13311	timepicker.js
+	    Same      		    1939	umbDateTimePicker.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\DateTimePicker\Images\
+	    Same      		    1110	calSprite.png
+	    Same      		    8673	ui-icons_666666_256x240.png
+	    Same      		    8641	ui-icons_999999_256x240.png
+	                  10	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Dialogs\
+	    Same      		     362	AssignDomain2.css
+	    Same      		    5351	AssignDomain2.js
+	    Same      		     212	CreateDialog.css
+	    Same      		     316	EditMacro.css
+	    Same      		    7379	EditMacro.js
+	    Same      		     362	PublishDialog.css
+	    Same      		    3481	PublishDialog.js
+	    Same      		    1171	SortDialog.css
+	    Same      		    4674	SortDialog.js
+	    Same      		    6012	UmbracoField.js
+	                   9	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Editors\
+	    Same      		     486	DirectoryBrowser.css
+	    Same      		     703	EditMacro.css
+	    Same      		    3039	EditMacroScripts.js
+	    Same      		    4183	EditScript.js
+	    Same      		    3796	EditStyleSheet.js
+	    Same      		    6259	EditTemplate.js
+	    Same      		   11260	EditView.js
+	    Same      		     161	EditXslt.css
+	    Same      		    3008	EditXslt.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\FileUploader\
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\FileUploader\Js\
+	    Same      		   16856	jquery.fileUploader.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\FolderBrowser\
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\FolderBrowser\Css\
+	    Same      		    5366	folderbrowser.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\FolderBrowser\Js\
+	    Same      		   18665	folderbrowser.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\IconPicker\
+	    Same      		      52	iconpicker.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Imagecropper\
+	    Same      		     329	Jcrop.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Images\
+	    Same      		   10819	progressbar.gif
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Installer\
+	                   5	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Installer\Css\
+	    Same      		   23469	all.css
+	    Same      		    1314	form.css
+	    Same      		   20078	jquery-ui-1.8.6.custom.css
+	    Same      		    7958	lt7.css
+	    Same      		     967	reset.css
+	                  98	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Installer\Images\
+	    Same      		   19424	bg-bhuiness-cl.gif
+	    Same      		   46684	bg-bhuiness-cr.gif
+	    Same      		  184850	bg-bhuiness.jpg
+	    Same      		   18564	bg-blog-cl.gif
+	    Same      		   50756	bg-blog-cr.gif
+	    Same      		   11078	bg-blog-repeat.jpg
+	    Same      		  187609	bg-blog.jpg
+	    Same      		     387	bg-drop-b.png
+	    Same      		      84	bg-drop-c.gif
+	    Same      		     391	bg-drop-t.png
+	    Same      		     158	bg-header.png
+	    Same      		    3915	bg-img-ie.png
+	    Same      		    2452	bg-img.png
+	    Same      		     866	bg-inp-big.png
+	    Same      		     616	bg-inp-error.png
+	    Same      		     621	bg-inp.png
+	    Same      		     283	bg-lightbox-b.png
+	    Same      		     296	bg-lightbox-t.png
+	    Same      		   18097	bg-normal-cl.gif
+	    Same      		   46703	bg-normal-cr.gif
+	    Same      		    9811	bg-normal-repeat.jpg
+	    Same      		  178356	bg-normal.jpg
+	    Same      		     366	bg-paging-h.png
+	    Same      		     346	bg-paging.png
+	    Same      		   18097	bg-personal-cl.gif
+	    Same      		   46703	bg-personal-cr.gif
+	    Same      		    9811	bg-personal-repeat.jpg
+	    Same      		  178356	bg-personal.jpg
+	    Same      		   17705	bg-simple-cl.gif
+	    Same      		   42137	bg-simple-cr.gif
+	    Same      		   12773	bg-simple-repeat.jpg
+	    Same      		  216794	bg-simple.jpg
+	    Same      		    6059	btn-accept.png
+	    Same      		    2708	btn-back.png
+	    Same      		   22650	btn-blog.png
+	    Same      		   16942	btn-buisness-repeat.png
+	    Same      		   26481	btn-buisness.png
+	    Same      		    1682	btn-close.png
+	    Same      		    3113	btn-confirm.png
+	    Same      		    3500	btn-continue.png
+	    Same      		    2243	btn-create-hover.png
+	    Same      		    4277	btn-create.png
+	    Same      		    6109	btn-get.png
+	    Same      		    6446	btn-install-gal.png
+	    Same      		    1484	btn-install-hover.png
+	    Same      		    2789	btn-install.png
+	    Same      		     952	btn-next.png
+	    Same      		   25962	btn-no-thanks.png
+	    Same      		    1898	btn-no.png
+	    Same      		   30788	btn-personal.png
+	    Same      		     958	btn-prev.png
+	    Same      		    7219	btn-preview-web.png
+	    Same      		    8978	btn-preview.png
+	    Same      		    6976	btn-set.png
+	    Same      		   28477	btn-simple.png
+	    Same      		    2380	btn-yes.png
+	    Same      		     205	bul1.png
+	    Same      		      46	bul2.gif
+	    Same      		     240	bul3.png
+	    Same      		      74	bul4.gif
+	    Same      		     467	ico-invalidaing.png
+	    Same      		     437	ico-validaing.png
+	    Same      		    3189	img01.jpg
+	    Same      		    3533	img02.jpg
+	    Same      		    6205	img03.jpg
+	    Same      		    5029	img04.jpg
+	    Same      		    6113	img05.jpg
+	    Same      		    4408	img06.jpg
+	    Same      		    5924	img07.jpg
+	    Same      		    4535	img08.jpg
+	    Same      		   16018	img09.jpg
+	    Same      		    4173	img10.jpg
+	    Same      		    6618	img11.jpg
+	    Same      		    2113	loader.gif
+	    Same      		    1445	logo.gif
+	    Same      		      43	none.gif
+	    Same      		  304064	pbar-ani.gif
+	    Same      		    1026	pbar.gif
+	    Same      		     491	select-button.png
+	    Same      		     199	select-center.png
+	    Same      		     816	select-left-2.png
+	    Same      		     401	select-left.png
+	    Same      		     110	sep1.png
+	    Same      		     260	ui-bg_diagonals-thick_18_b81900_40x40.png
+	    Same      		     251	ui-bg_diagonals-thick_20_666666_40x40.png
+	    Same      		     178	ui-bg_flat_10_000000_40x100.png
+	    Same      		     104	ui-bg_glass_100_f6f6f6_1x400.png
+	    Same      		     125	ui-bg_glass_100_fdf5ce_1x400.png
+	    Same      		     105	ui-bg_glass_65_ffffff_1x400.png
+	    Same      		    3762	ui-bg_gloss-wave_35_f6a828_500x100.png
+	    Same      		      90	ui-bg_highlight-soft_100_eeeeee_1x100.png
+	    Same      		     129	ui-bg_highlight-soft_75_ffe45c_1x100.png
+	    Same      		    4369	ui-icons_222222_256x240.png
+	    Same      		    4369	ui-icons_228ef1_256x240.png
+	    Same      		    4369	ui-icons_ef8c08_256x240.png
+	    Same      		    4369	ui-icons_ffd27a_256x240.png
+	    Same      		    4369	ui-icons_ffffff_256x240.png
+	    Same      		    1207	zoom-in.png
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Installer\Js\
+	    Same      		    7058	ie-png.js
+	    Same      		   62130	jquery.main.js
+	    Same      		   19146	jquery.ui.selectmenu.js
+	    Same      		    9543	PackageInstaller.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Jeditable\
+	    Same      		   24034	jquery.jeditable.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\MacroContainer\
+	    Same      		     666	macroContainer.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\MaskedInput\
+	    Same      		    4028	jquery.maskedinput-1.3.min.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Menuicon\
+	    Same      		     571	style.css
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Menuicon\Images\
+	    Same      		     273	buttonbg.gif
+	    Same      		     273	buttonbgdown.gif
+	    Same      		     851	split.gif
+	                   5	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Modal\
+	    Same      		   24893	jquery.simplemodal.1.4.1.custom.js
+	    Same      		   20746	modal.js
+	    Same      		     475	modalBackground.gif
+	    Same      		     151	modalGradiant.gif
+	    Same      		    1417	style.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Mousewheel\
+	    Same      		    1638	jquery.mousewheel.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Panel\
+	    Same      		     240	javascript.js
+	    Same      		    2608	style.css
+	                   6	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Panel\Images\
+	    Same      		      98	panel_bg.gif
+	    Same      		      43	panel_boxfooter_bg.gif
+	    Same      		     162	panel_boxfooter_statusBar_bg.gif
+	    Same      		     164	panel_boxfooter_statusBar_h2_bg.gif
+	    Same      		     194	panel_boxhead_bg.gif
+	    Same      		     193	panel_boxhead_h2_bg.gif
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Preview\
+	    Same      		    3508	previewModeBadge.png
+	    Same      		     169	umbracoPreview.css
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\ProgressBar\
+	    Same      		     795	javascript.js
+	    Same      		     524	style.css
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\ProgressBar\Images\
+	    Same      		     314	container_left.gif
+	    Same      		     102	container_right.gif
+	    Same      		     113	indicator.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Propertypane\
+	    Same      		    2000	style.css
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Propertypane\Images\
+	    Same      		    9038	propertyBackground.gif
+	    Same      		     554	proppane_bg.png
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\PunyCode\
+	    Same      		    2802	punycode.min.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Scrollingmenu\
+	    Same      		    2851	javascript.js
+	    Same      		     255	style.css
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Scrollingmenu\Images\
+	    Same      		     834	arrawBack.gif
+	    Same      		     834	arrowForward.gif
+	    Same      		     183	background.gif
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Scrollingmenu\Images\Button\
+	    Same      		     273	buttonbg.gif
+	    Same      		     273	buttonbgdown.gif
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\SimpleEditor\
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\SimpleEditor\Images\
+	    Same      		      78	bold.gif
+	    Same      		      73	italic.gif
+	    Same      		     108	link.gif
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Splitbutton\
+	    Same      		    2245	InsertMacroSplitButton.js
+	    Same      		   18462	jquery.splitbutton.js
+	    Same      		    2773	splitbutton.css
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Splitbutton\Images\
+	    Same      		     130	splitbutton_downarrow.png
+	    Same      		     149	splitbutton_hover.png
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tablesorting\
+	    Same      		   16523	jquery.tablesorter.min.js
+	    Same      		   18249	tableDragAndDrop.js
+	    Same      		   23499	tableFilter.js
+	    Same      		   12838	tableFilterUtill.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tablesorting\img\
+	    Same      		     830	asc.gif
+	    Same      		      73	bg.gif
+	    Same      		     833	desc.gif
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tabview\
+	    Same      		    3721	javascript.js
+	    Same      		    1589	oldstyle.css
+	    Same      		    2633	style.css
+	                   7	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tabview\Images\
+	    Same      		     169	background.gif
+	    Same      		      73	bg.gif
+	    Same      		      43	footer_bg.gif
+	    Same      		     162	footer_statusBar_bg.gif
+	    Same      		     164	footer_statusBar_h2_bg.gif
+	    Same      		    1343	left_both.gif
+	    Same      		    3913	right_both.gif
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tags\
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tags\Css\
+	    Same      		    1117	jquery.tagsinput.css
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tags\Js\
+	    Same      		   11891	jquery.tagsinput.js
+	    Same      		    6400	jquery.tagsinput.min.js
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\
+	    Same      		   26930	license.txt
+	    Same      		  232483	tiny_mce.js
+	    Same      		    4912	tiny_mce_popup.js
+	    Same      		  524361	tiny_mce_src.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Langs\
+	    Same      		    7049	da.js
+	    Same      		    7251	de.js
+	    Same      		    6515	en.js
+	    Same      		    6518	en_us.js
+	    Same      		    7711	fi.js
+	    Same      		    7765	fr.js
+	    Same      		   15279	he.js
+	    Same      		    7010	it.js
+	    Same      		   11301	ja.js
+	    Same      		    6635	nl.js
+	    Same      		    6958	no.js
+	    Same      		    7897	pl.js
+	    Same      		    7053	pt.js
+	    Same      		   19794	ru.js
+	    Same      		    6966	sv.js
+	    Same      		    8432	zh.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\
+	    Same      		     847	editor_plugin.js
+	    Same      		    1442	editor_plugin_src.js
+	    Same      		    2422	rule.htm
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Css\
+	    Same      		     240	advhr.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Js\
+	    Same      		    1322	rule.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Langs\
+	    Same      		     127	da_dlg.js
+	    Same      		     129	de_dlg.js
+	    Same      		     117	en_dlg.js
+	    Same      		     120	en_us_dlg.js
+	    Same      		     128	fi_dlg.js
+	    Same      		     129	fr_dlg.js
+	    Same      		     225	he_dlg.js
+	    Same      		     138	it_dlg.js
+	    Same      		     146	ja_dlg.js
+	    Same      		     126	nl_dlg.js
+	    Same      		     127	no_dlg.js
+	    Same      		     150	pl_dlg.js
+	    Same      		     120	pt_dlg.js
+	    Same      		     342	ru_dlg.js
+	    Same      		     125	sv_dlg.js
+	    Same      		     142	zh_dlg.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\
+	    Same      		     791	editor_plugin.js
+	    Same      		    1391	editor_plugin_src.js
+	    Same      		   12086	image.htm
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Css\
+	    Same      		     672	advimage.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Img\
+	    Same      		    1624	sample.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Js\
+	    Same      		   12909	image.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Langs\
+	    Same      		    1352	da_dlg.js
+	    Same      		    1363	de_dlg.js
+	    Same      		    1270	en_dlg.js
+	    Same      		    1273	en_us_dlg.js
+	    Same      		    1387	fi_dlg.js
+	    Same      		    1508	fr_dlg.js
+	    Same      		    2771	he_dlg.js
+	    Same      		    1467	it_dlg.js
+	    Same      		    2319	ja_dlg.js
+	    Same      		    1267	nl_dlg.js
+	    Same      		    1312	no_dlg.js
+	    Same      		    1467	pl_dlg.js
+	    Same      		    1374	pt_dlg.js
+	    Same      		    4924	ru_dlg.js
+	    Same      		    1266	sv_dlg.js
+	    Same      		    1761	zh_dlg.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\
+	    Same      		     973	editor_plugin.js
+	    Same      		    1633	editor_plugin_src.js
+	    Same      		   16123	link.htm
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Css\
+	    Same      		     480	advlink.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Js\
+	    Same      		   17341	advlink.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Langs\
+	    Same      		    1944	da_dlg.js
+	    Same      		    1955	de_dlg.js
+	    Same      		    1667	en_dlg.js
+	    Same      		    1670	en_us_dlg.js
+	    Same      		    1985	fi_dlg.js
+	    Same      		    2120	fr_dlg.js
+	    Same      		    4332	he_dlg.js
+	    Same      		    1864	it_dlg.js
+	    Same      		    3274	ja_dlg.js
+	    Same      		    1710	nl_dlg.js
+	    Same      		    1871	no_dlg.js
+	    Same      		    2012	pl_dlg.js
+	    Same      		    1962	pt_dlg.js
+	    Same      		    5662	ru_dlg.js
+	    Same      		    1846	sv_dlg.js
+	    Same      		    2326	zh_dlg.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlist\
+	    Same      		    2324	editor_plugin.js
+	    Same      		    4726	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autolink\
+	    Same      		    2355	editor_plugin.js
+	    Same      		    5492	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autoresize\
+	    Same      		    1506	editor_plugin.js
+	    Same      		    4158	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autosave\
+	    Same      		    3584	editor_plugin.js
+	    Same      		   13766	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autosave\Langs\
+	    Same      		     256	en.js
+	    Same      		     259	en_us.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Bbcode\
+	    Same      		    3231	editor_plugin.js
+	    Same      		    4361	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Contextmenu\
+	    Same      		    2540	editor_plugin.js
+	    Same      		    5227	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Directionality\
+	    Same      		    1259	editor_plugin.js
+	    Same      		    2189	editor_plugin_src.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\
+	    Same      		     676	editor_plugin.js
+	    Same      		    1220	editor_plugin_src.js
+	    Same      		    5972	emotions.htm
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Img\
+	    Same      		     354	smiley-cool.gif
+	    Same      		     329	smiley-cry.gif
+	    Same      		     331	smiley-embarassed.gif
+	    Same      		     342	smiley-foot-in-mouth.gif
+	    Same      		     340	smiley-frown.gif
+	    Same      		     336	smiley-innocent.gif
+	    Same      		     338	smiley-kiss.gif
+	    Same      		     343	smiley-laughing.gif
+	    Same      		     321	smiley-money-mouth.gif
+	    Same      		     323	smiley-sealed.gif
+	    Same      		     344	smiley-smile.gif
+	    Same      		     338	smiley-surprised.gif
+	    Same      		     328	smiley-tongue-out.gif
+	    Same      		     337	smiley-undecided.gif
+	    Same      		     350	smiley-wink.gif
+	    Same      		     336	smiley-yell.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Js\
+	    Same      		    1120	emotions.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Langs\
+	    Same      		     463	da_dlg.js
+	    Same      		     478	de_dlg.js
+	    Same      		     421	en_dlg.js
+	    Same      		     424	en_us_dlg.js
+	    Same      		     532	fi_dlg.js
+	    Same      		     513	fr_dlg.js
+	    Same      		     999	he_dlg.js
+	    Same      		     472	it_dlg.js
+	    Same      		     738	ja_dlg.js
+	    Same      		     459	nl_dlg.js
+	    Same      		     446	no_dlg.js
+	    Same      		     529	pl_dlg.js
+	    Same      		     468	pt_dlg.js
+	    Same      		    1380	ru_dlg.js
+	    Same      		     496	sv_dlg.js
+	    Same      		     456	zh_dlg.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\
+	    Same      		     908	dialog.htm
+	    Same      		     860	editor_plugin.js
+	    Same      		    2988	editor_plugin_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Img\
+	    Same      		      87	example.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Js\
+	    Same      		     609	dialog.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Langs\
+	    Same      		      79	en.js
+	    Same      		      82	en_dlg.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\example_dependency\
+	    Same      		     419	editor_plugin.js
+	    Same      		    1885	editor_plugin_src.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\
+	    Same      		    6322	editor_plugin.js
+	    Same      		   11568	editor_plugin_src.js
+	    Same      		   10754	fullpage.htm
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Css\
+	    Same      		    2188	fullpage.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Js\
+	    Same      		    8164	fullpage.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Langs\
+	    Same      		    2347	da_dlg.js
+	    Same      		    2469	de_dlg.js
+	    Same      		    2297	en_dlg.js
+	    Same      		    2300	en_us_dlg.js
+	    Same      		    2541	fi_dlg.js
+	    Same      		    2864	fr_dlg.js
+	    Same      		    4260	he_dlg.js
+	    Same      		    2520	it_dlg.js
+	    Same      		    3802	ja_dlg.js
+	    Same      		    2365	nl_dlg.js
+	    Same      		    2359	no_dlg.js
+	    Same      		    2712	pl_dlg.js
+	    Same      		    2387	pt_dlg.js
+	    Same      		    6193	ru_dlg.js
+	    Same      		    2499	sv_dlg.js
+	    Same      		    2863	zh_dlg.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullscreen\
+	    Same      		    4422	editor_plugin.js
+	    Same      		    8222	editor_plugin_src.js
+	    Same      		    3655	fullscreen.htm
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Iespell\
+	    Same      		     909	editor_plugin.js
+	    Same      		    1484	editor_plugin_src.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\
+	    Same      		   11928	editor_plugin.js
+	    Same      		   19657	editor_plugin_src.js
+	    Same      		   12878	template.htm
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Clearlooks2\
+	    Same      		    6715	window.css
+	                   7	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Clearlooks2\Img\
+	    Same      		     810	alert.gif
+	    Same      		     272	button.gif
+	    Same      		    1195	buttons.gif
+	    Same      		     907	confirm.gif
+	    Same      		     909	corners.gif
+	    Same      		     769	horizontal.gif
+	    Same      		      84	vertical.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Umbraco\
+	    Same      		    4816	window.css
+	                   8	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Umbraco\Img\
+	    Same      		     818	alert.gif
+	    Same      		     280	button.gif
+	    Same      		    1195	buttons.gif
+	    Same      		    3728	close.png
+	    Same      		     915	confirm.gif
+	    Same      		     569	corners.gif
+	    Same      		     436	horizontal.gif
+	    Same      		     140	vertical.gif
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Insertdatetime\
+	    Same      		    1931	editor_plugin.js
+	    Same      		    2860	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Layer\
+	    Same      		    4052	editor_plugin.js
+	    Same      		    6747	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Legacyoutput\
+	    Same      		    2086	editor_plugin.js
+	    Same      		    5077	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Lists\
+	    Same      		   14380	editor_plugin.js
+	    Same      		   32531	editor_plugin_src.js
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\
+	    Same      		   12655	editor_plugin.js
+	    Same      		   26419	editor_plugin_src.js
+	    Same      		   38852	media.htm
+	    Same      		   19980	moxieplayer.swf
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Css\
+	    Same      		    1357	media.css
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Js\
+	    Same      		    1938	embed.js
+	    Same      		   16473	media.js
+	                  18	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Langs\
+	    Same      		    3077	da_dlg.js
+	    Same      		    3164	de_dlg.js
+	    Same      		    2815	en_dlg.js
+	    Same      		    2818	en_us_dlg.js
+	    Same      		    3018	es_dlg.js
+	    Same      		    3314	fi_dlg.js
+	    Same      		    3302	fr_dlg.js
+	    Same      		    5399	he_dlg.js
+	    Same      		    3062	it_dlg.js
+	    Same      		    5047	ja_dlg.js
+	    Same      		    2734	ko_dlg.js
+	    Same      		    2949	nl_dlg.js
+	    Same      		    3047	no_dlg.js
+	    Same      		    3259	pl_dlg.js
+	    Same      		    3259	pt_dlg.js
+	    Same      		    9433	ru_dlg.js
+	    Same      		    2962	sv_dlg.js
+	    Same      		    3445	zh_dlg.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Nonbreaking\
+	    Same      		     944	editor_plugin.js
+	    Same      		    1521	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Noneditable\
+	    Same      		    5431	editor_plugin.js
+	    Same      		   17154	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Pagebreak\
+	    Same      		    1402	editor_plugin.js
+	    Same      		    2161	editor_plugin_src.js
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\
+	    Same      		   13713	editor_plugin.js
+	    Same      		   31674	editor_plugin_src.js
+	    Same      		    1209	pastetext.htm
+	    Same      		     783	pasteword.htm
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\Js\
+	    Same      		     884	pastetext.js
+	    Same      		    1647	pasteword.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\Langs\
+	    Same      		     227	da_dlg.js
+	    Same      		     262	de_dlg.js
+	    Same      		     226	en_dlg.js
+	    Same      		     229	en_us_dlg.js
+	    Same      		     245	fi_dlg.js
+	    Same      		     276	fr_dlg.js
+	    Same      		     610	he_dlg.js
+	    Same      		     252	it_dlg.js
+	    Same      		     517	ja_dlg.js
+	    Same      		     209	nl_dlg.js
+	    Same      		     256	no_dlg.js
+	    Same      		     263	pl_dlg.js
+	    Same      		     190	pt_dlg.js
+	    Same      		     633	ru_dlg.js
+	    Same      		     284	sv_dlg.js
+	    Same      		     258	zh_dlg.js
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Preview\
+	    Same      		    1051	editor_plugin.js
+	    Same      		    1641	editor_plugin_src.js
+	    Same      		     731	example.html
+	    Same      		     630	preview.html
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Preview\Jscripts\
+	    Same      		    1938	embed.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Print\
+	    Same      		     492	editor_plugin.js
+	    Same      		     881	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Save\
+	    Same      		    1569	editor_plugin.js
+	    Same      		    2529	editor_plugin_src.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\
+	    Same      		    1046	editor_plugin.js
+	    Same      		    1795	editor_plugin_src.js
+	    Same      		    5334	searchreplace.htm
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Css\
+	    Same      		     176	searchreplace.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Js\
+	    Same      		    3878	searchreplace.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Langs\
+	    Same      		     461	da_dlg.js
+	    Same      		     522	de_dlg.js
+	    Same      		     445	en_dlg.js
+	    Same      		     448	en_us_dlg.js
+	    Same      		     468	fi_dlg.js
+	    Same      		     584	fr_dlg.js
+	    Same      		    1056	he_dlg.js
+	    Same      		     473	it_dlg.js
+	    Same      		     755	ja_dlg.js
+	    Same      		     488	nl_dlg.js
+	    Same      		     475	no_dlg.js
+	    Same      		     602	pl_dlg.js
+	    Same      		     489	pt_dlg.js
+	    Same      		    1262	ru_dlg.js
+	    Same      		     535	sv_dlg.js
+	    Same      		     633	zh_dlg.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\
+	    Same      		    7217	editor_plugin.js
+	    Same      		   12791	editor_plugin_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\Css\
+	    Same      		      98	content.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\Img\
+	    Same      		      46	wline.gif
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\
+	    Same      		    1117	editor_plugin.js
+	    Same      		    1927	editor_plugin_src.js
+	    Same      		   38494	props.htm
+	    Same      		    1030	readme.txt
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Css\
+	    Same      		     906	props.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Js\
+	    Same      		   32355	props.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Langs\
+	    Same      		    1689	da_dlg.js
+	    Same      		    1824	de_dlg.js
+	    Same      		    1627	en_dlg.js
+	    Same      		    1630	en_us_dlg.js
+	    Same      		    1762	fi_dlg.js
+	    Same      		    1723	fr_dlg.js
+	    Same      		    3246	he_dlg.js
+	    Same      		    1718	it_dlg.js
+	    Same      		    2436	ja_dlg.js
+	    Same      		    1652	nl_dlg.js
+	    Same      		    1648	no_dlg.js
+	    Same      		    1916	pl_dlg.js
+	    Same      		    1684	pt_dlg.js
+	    Same      		    4509	ru_dlg.js
+	    Same      		    1700	sv_dlg.js
+	    Same      		    2005	zh_dlg.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Tabfocus\
+	    Same      		    1666	editor_plugin.js
+	    Same      		    3057	editor_plugin_src.js
+	                   6	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\
+	    Same      		    7292	cell.htm
+	    Same      		   17667	editor_plugin.js
+	    Same      		   40915	editor_plugin_src.js
+	    Same      		    1508	merge_cells.htm
+	    Same      		    6263	row.htm
+	    Same      		    9035	table.htm
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Css\
+	    Same      		     205	cell.css
+	    Same      		     306	row.css
+	    Same      		     170	table.css
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Js\
+	    Same      		    9458	cell.js
+	    Same      		     566	merge_cells.js
+	    Same      		    7775	row.js
+	    Same      		   15534	table.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Langs\
+	    Same      		    2262	da_dlg.js
+	    Same      		    2462	de_dlg.js
+	    Same      		    2092	en_dlg.js
+	    Same      		    2095	en_us_dlg.js
+	    Same      		    2516	fi_dlg.js
+	    Same      		    2694	fr_dlg.js
+	    Same      		    4748	he_dlg.js
+	    Same      		    2301	it_dlg.js
+	    Same      		    3631	ja_dlg.js
+	    Same      		    2199	nl_dlg.js
+	    Same      		    2247	no_dlg.js
+	    Same      		    2653	pl_dlg.js
+	    Same      		    2285	pt_dlg.js
+	    Same      		    6724	ru_dlg.js
+	    Same      		    2189	sv_dlg.js
+	    Same      		    2859	zh_dlg.js
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\
+	    Same      		     332	blank.htm
+	    Same      		    3302	editor_plugin.js
+	    Same      		    4986	editor_plugin_src.js
+	    Same      		    1441	template.htm
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Css\
+	    Same      		     275	template.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Js\
+	    Same      		    2777	template.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Langs\
+	    Same      		     670	da_dlg.js
+	    Same      		     662	de_dlg.js
+	    Same      		     627	en_dlg.js
+	    Same      		     630	en_us_dlg.js
+	    Same      		     756	fi_dlg.js
+	    Same      		     731	fr_dlg.js
+	    Same      		    1065	he_dlg.js
+	    Same      		     693	it_dlg.js
+	    Same      		    1041	ja_dlg.js
+	    Same      		     670	nl_dlg.js
+	    Same      		     651	no_dlg.js
+	    Same      		     688	pl_dlg.js
+	    Same      		     694	pt_dlg.js
+	    Same      		    2076	ru_dlg.js
+	    Same      		     670	sv_dlg.js
+	    Same      		     989	zh_dlg.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocontextmenu\
+	    Same      		    2561	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\
+	    Same      		     991	dialog.htm
+	    Same      		    8362	editor_plugin_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Img\
+	    Same      		      87	example.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Js\
+	    Same      		     609	dialog.js
+	                  14	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Langs\
+	    Same      		      79	en.js
+	    Same      		      82	en_dlg.js
+	    Same      		      82	en_us.js
+	    Same      		      85	en_us_dlg.js
+	    Same      		      67	it.js
+	    Same      		      71	it_dlg.js
+	    Same      		      92	ja.js
+	    Same      		      84	ja_dlg.js
+	    Same      		      96	ru.js
+	    Same      		     105	ru_dlg.js
+	    Same      		      76	sv.js
+	    Same      		      93	sv_dlg.js
+	    Same      		      67	zh.js
+	    Same      		      72	zh_dlg.js
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\
+	    Same      		    3816	dialog.htm
+	    Same      		     860	editor_plugin.js
+	    Same      		    2984	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Img\
+	    Same      		    1928	ajax-loader.gif
+	    Same      		     260	embed.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Js\
+	    Same      		    3260	dialog.js
+	                  18	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Langs\
+	    Same      		      85	da.js
+	    Same      		     251	da_dlg.js
+	    Same      		     272	de.js
+	    Same      		     272	de_dlg.js
+	    Same      		      78	en.js
+	    Same      		     232	en_dlg.js
+	    Same      		      81	en_us.js
+	    Same      		     235	en_us_dlg.js
+	    Same      		     236	it.js
+	    Same      		     244	it_dlg.js
+	    Same      		     267	ja.js
+	    Same      		     268	ja_dlg.js
+	    Same      		     329	ru.js
+	    Same      		     329	ru_dlg.js
+	    Same      		     260	sv.js
+	    Same      		     260	sv_dlg.js
+	    Same      		     235	zh.js
+	    Same      		     235	zh_dlg.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\
+	    Same      		    1739	editor_plugin_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\Js\
+	    Same      		   10412	image.js
+	                   8	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\Langs\
+	    Same      		    1495	en_dlg.js
+	    Same      		    1498	en_us_dlg.js
+	    Same      		    1495	he_dlg.js
+	    Same      		    1583	it_dlg.js
+	    Same      		    1694	ja_dlg.js
+	    Same      		    2314	ru_dlg.js
+	    Same      		    1536	sv_dlg.js
+	    Same      		    1346	zh_dlg.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\
+	    Same      		    1860	editor_plugin_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\Js\
+	    Same      		   17755	umbracolink.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\Langs\
+	    Same      		    1944	da_dlg.js
+	    Same      		    1955	de_dlg.js
+	    Same      		    1667	en_dlg.js
+	    Same      		    1670	en_us_dlg.js
+	    Same      		    1985	fi_dlg.js
+	    Same      		    2120	fr_dlg.js
+	    Same      		    4332	he_dlg.js
+	    Same      		    1864	it_dlg.js
+	    Same      		    3274	ja_dlg.js
+	    Same      		    1710	nl_dlg.js
+	    Same      		    1871	no_dlg.js
+	    Same      		    2012	pl_dlg.js
+	    Same      		    1962	pt_dlg.js
+	    Same      		    2727	ru_dlg.js
+	    Same      		    1846	sv_dlg.js
+	    Same      		    2326	zh_dlg.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\
+	    Same      		     991	dialog.htm
+	    Same      		    6151	editor_plugin_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Img\
+	    Same      		     603	insMacro.gif
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Js\
+	    Same      		     609	dialog.js
+	                  14	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Langs\
+	    Same      		      69	en.js
+	    Same      		      82	en_dlg.js
+	    Same      		      72	en_us.js
+	    Same      		      85	en_us_dlg.js
+	    Same      		      79	he.js
+	    Same      		      82	he_dlg.js
+	    Same      		      75	ja.js
+	    Same      		      90	ja_dlg.js
+	    Same      		      86	ru.js
+	    Same      		      81	ru_dlg.js
+	    Same      		      69	sv.js
+	    Same      		      92	sv_dlg.js
+	    Same      		      66	zh.js
+	    Same      		      72	zh_dlg.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracopaste\
+	    Same      		    1753	editor_plugin_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoshortcut\
+	    Same      		    1255	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualblocks\
+	    Same      		     958	editor_plugin.js
+	    Same      		    1712	editor_plugin_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualblocks\Css\
+	    Same      		    3040	visualblocks.css
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualchars\
+	    Same      		    1368	editor_plugin.js
+	    Same      		    2195	editor_plugin_src.js
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Wordcount\
+	    Same      		    1960	editor_plugin.js
+	    Same      		    3331	editor_plugin_src.js
+	                   8	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\
+	    Same      		    6243	abbr.htm
+	    Same      		    6258	acronym.htm
+	    Same      		    6232	attributes.htm
+	    Same      		    6243	cite.htm
+	    Same      		    7294	del.htm
+	    Same      		    2756	editor_plugin.js
+	    Same      		    4098	editor_plugin_src.js
+	    Same      		    7299	ins.htm
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Css\
+	    Same      		     197	attributes.css
+	    Same      		     514	popup.css
+	                   7	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Js\
+	    Same      		     541	abbr.js
+	    Same      		     559	acronym.js
+	    Same      		    3471	attributes.js
+	    Same      		     541	cite.js
+	    Same      		    1356	del.js
+	    Same      		    7159	element_common.js
+	    Same      		    1356	ins.js
+	                  16	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Langs\
+	    Same      		    1194	da_dlg.js
+	    Same      		    1141	de_dlg.js
+	    Same      		    1092	en_dlg.js
+	    Same      		    1095	en_us_dlg.js
+	    Same      		    1214	fi_dlg.js
+	    Same      		    1195	fr_dlg.js
+	    Same      		    2222	he_dlg.js
+	    Same      		    1181	it_dlg.js
+	    Same      		    1531	ja_dlg.js
+	    Same      		    1149	nl_dlg.js
+	    Same      		    1147	no_dlg.js
+	    Same      		    1159	pl_dlg.js
+	    Same      		    1140	pt_dlg.js
+	    Same      		    2564	ru_dlg.js
+	    Same      		    1157	sv_dlg.js
+	    Same      		    1372	zh_dlg.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\
+	                  10	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\
+	    Same      		    2701	about.htm
+	    Same      		    1167	anchor.htm
+	    Same      		    2251	charmap.htm
+	    Same      		    3317	color_picker.htm
+	    Same      		   26734	editor_template.js
+	    Same      		   43419	editor_template_src.js
+	    Same      		    4038	image.htm
+	    Same      		    2527	link.htm
+	    Same      		    1732	shortcuts.htm
+	    Same      		    1269	source_editor.htm
+	                  11	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Img\
+	    Same      		    2584	colorpicker.jpg
+	    Same      		     239	flash.gif
+	    Same      		   11982	icons.gif
+	    Same      		     600	iframe.gif
+	    Same      		     325	pagebreak.gif
+	    Same      		     301	quicktime.gif
+	    Same      		     439	realmedia.gif
+	    Same      		     384	shockwave.gif
+	    Same      		      43	trans.gif
+	    Same      		     597	video.gif
+	    Same      		     415	windowsmedia.gif
+	                   7	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Js\
+	    Same      		    2203	about.js
+	    Same      		    1498	anchor.js
+	    Same      		   15793	charmap.js
+	    Same      		   14559	color_picker.js
+	    Same      		    6391	image.js
+	    Same      		    4947	link.js
+	    Same      		    1694	source_editor.js
+	                  28	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Langs\
+	    Same      		    2547	da.js
+	    Same      		    2201	da_dlg.js
+	    Same      		    2623	de.js
+	    Same      		    2152	de_dlg.js
+	    Same      		    2341	en.js
+	    Same      		    1981	en_dlg.js
+	    Same      		    2767	fi.js
+	    Same      		    2287	fi_dlg.js
+	    Same      		    2782	fr.js
+	    Same      		    2341	fr_dlg.js
+	    Same      		    5268	he.js
+	    Same      		    4766	he_dlg.js
+	    Same      		    2771	it.js
+	    Same      		    2120	it_dlg.js
+	    Same      		    3775	ja.js
+	    Same      		    3416	ja_dlg.js
+	    Same      		    2329	nl.js
+	    Same      		    2040	nl_dlg.js
+	    Same      		    2400	no.js
+	    Same      		    2124	no_dlg.js
+	    Same      		    2869	pl.js
+	    Same      		    2298	pl_dlg.js
+	    Same      		    2714	pt.js
+	    Same      		    2217	pt_dlg.js
+	    Same      		    2502	sv.js
+	    Same      		    2205	sv_dlg.js
+	    Same      		    3059	zh.js
+	    Same      		    2544	zh_dlg.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Default\
+	    Same      		    2607	content.css
+	    Same      		    5761	dialog.css
+	    Same      		   15959	ui.css
+	                   6	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Default\Img\
+	    Same      		    3133	buttons.png
+	    Same      		      64	items.gif
+	    Same      		      68	menu_arrow.gif
+	    Same      		      70	menu_check.gif
+	    Same      		    1787	progress.gif
+	    Same      		    1322	tabs.gif
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Highcontrast\
+	    Same      		    1122	content.css
+	    Same      		    5219	dialog.css
+	    Same      		    8886	ui.css
+	                   5	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\O2k7\
+	    Same      		    2331	content.css
+	    Same      		    5849	dialog.css
+	    Same      		   15405	ui.css
+	    Same      		    1695	ui_black.css
+	    Same      		     860	ui_silver.css
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\O2k7\Img\
+	    Same      		    2766	button_bg.png
+	    Same      		     651	button_bg_black.png
+	    Same      		    2084	button_bg_silver.png
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\
+	    Same      		    2226	editor_template.js
+	    Same      		    3205	editor_template_src.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Img\
+	    Same      		     806	icons.gif
+	                  14	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Langs\
+	    Same      		     359	da.js
+	    Same      		     355	de.js
+	    Same      		     347	en.js
+	    Same      		     376	fi.js
+	    Same      		     349	fr.js
+	    Same      		     539	he.js
+	    Same      		     345	it.js
+	    Same      		     487	ja.js
+	    Same      		     326	nl.js
+	    Same      		     309	no.js
+	    Same      		     382	pl.js
+	    Same      		     351	pt.js
+	    Same      		     347	sv.js
+	    Same      		     401	zh.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\Default\
+	    Same      		     513	content.css
+	    Same      		    2105	ui.css
+	                   2	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\O2k7\
+	    Same      		     461	content.css
+	    Same      		    2340	ui.css
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\O2k7\Img\
+	    Same      		    5102	button_bg.png
+	                   9	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\
+	    Same      		    2682	about.htm
+	    Same      		    1091	anchor.htm
+	    Same      		    2339	charmap.htm
+	    Same      		    3333	color_picker.htm
+	    Same      		   43516	editor_template_src.js
+	    Same      		    4046	image.htm
+	    Same      		    2547	link.htm
+	    Same      		    1730	shortcuts.htm
+	    Same      		    1382	source_editor.htm
+	                  11	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Img\
+	    Same      		    2584	colorpicker.jpg
+	    Same      		     239	flash.gif
+	    Same      		   11982	icons.gif
+	    Same      		     600	iframe.gif
+	    Same      		     325	pagebreak.gif
+	    Same      		     301	quicktime.gif
+	    Same      		     439	realmedia.gif
+	    Same      		     384	shockwave.gif
+	    Same      		      43	trans.gif
+	    Same      		     597	video.gif
+	    Same      		     415	windowsmedia.gif
+	                   7	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Js\
+	    Same      		    2203	about.js
+	    Same      		    1193	anchor.js
+	    Same      		   15793	charmap.js
+	    Same      		   14559	color_picker.js
+	    Same      		    6391	image.js
+	    Same      		    4884	link.js
+	    Same      		    1694	source_editor.js
+	                  30	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Langs\
+	    Same      		    2109	da.js
+	    Same      		    1926	da_dlg.js
+	    Same      		    2265	de.js
+	    Same      		    1860	de_dlg.js
+	    Same      		    2488	en.js
+	    Same      		    2066	en_dlg.js
+	    Same      		    2491	en_us.js
+	    Same      		    2069	en_us_dlg.js
+	    Same      		    2232	es.js
+	    Same      		    1998	es_dlg.js
+	    Same      		    2294	fr.js
+	    Same      		    1964	fr_dlg.js
+	    Same      		    2209	he.js
+	    Same      		    1987	he_dlg.js
+	    Same      		    2669	it.js
+	    Same      		    2058	it_dlg.js
+	    Same      		    2727	ja.js
+	    Same      		    2429	ja_dlg.js
+	    Same      		    2823	ko.js
+	    Same      		    2147	ko_dlg.js
+	    Same      		    1946	nl.js
+	    Same      		    1768	nl_dlg.js
+	    Same      		    1948	no.js
+	    Same      		    1846	no_dlg.js
+	    Same      		    3405	ru.js
+	    Same      		    2725	ru_dlg.js
+	    Same      		    2012	sv.js
+	    Same      		    1912	sv_dlg.js
+	    Same      		    2409	zh.js
+	    Same      		    2070	zh_dlg.js
+	                   0	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\
+	                   3	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\Umbraco\
+	    Same      		    1367	content.css
+	    Same      		    5364	dialog.css
+	    Same      		   16035	ui.css
+	                   6	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\Umbraco\Img\
+	    Same      		    4579	buttons.png
+	    Same      		      70	items.gif
+	    Same      		      68	menu_arrow.gif
+	    Same      		      70	menu_check.gif
+	    Same      		    1787	progress.gif
+	    Same      		    1326	tabs.gif
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tinymce3\Utils\
+	    Same      		    2046	editable_selects.js
+	    Same      		    5991	form_utils.js
+	    Same      		    4055	mctabs.js
+	    Same      		    6100	validate.js
+	                  11	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tree\
+	    Same      		    2638	jquery.tree.checkbox.js
+	    Same      		    9637	jquery.tree.contextmenu.js
+	    Same      		  114705	jquery.tree.js
+	    Same      		     548	jquery.tree.metadata.js
+	    Same      		    1642	menuIcons.css
+	    Same      		    1866	NodeDefinition.js
+	    Same      		   12897	sprites.png
+	    Same      		    7307	sprites_ie6.gif
+	    Same      		    2597	treeIcons.css
+	    Same      		    3662	UmbracoContext.js
+	    Same      		   55287	UmbracoTree.js
+	                   5	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tree\Themes\
+	    Same      		      61	marker.gif
+	    Same      		      62	marker_rtl.gif
+	    Same      		      52	plus.gif
+	    Same      		     720	remove.png
+	    Same      		    3867	rename.png
+	                   4	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tree\Themes\Default\
+	    Same      		      43	dot_for_ie.gif
+	    Same      		    6680	icons.png
+	    Same      		    2435	style.css
+	    Same      		    1844	throbber.gif
+	                  21	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Tree\Themes\Umbraco\
+	    Same      		    1600	arrows.png
+	    Same      		    2910	check_0.png
+	    Same      		    3197	check_1.png
+	    Same      		    3283	check_2.png
+	    Same      		      35	context.gif
+	    Same      		      54	contextMenuBg.gif
+	    Same      		    3329	create.png
+	    Same      		      43	dot.gif
+	    Same      		    3237	f.png
+	    Same      		      60	fminus.gif
+	    Same      		      59	fminus_rtl.gif
+	    Same      		     108	fplus.gif
+	    Same      		     108	fplus_rtl.gif
+	    Same      		    6680	icons.png
+	    Same      		      55	lastli.gif
+	    Same      		      54	lastli_rtl.gif
+	    Same      		      47	li.gif
+	    Same      		     381	newVersion_overlay.png
+	    Same      		     282	protect_overlay.gif
+	    Same      		    5258	style.css
+	    Same      		    1844	throbber.gif
+	                  14	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Ui\
+	    Same      		   52012	base2.js
+	    Same      		    4482	dd.css
+	    Same      		     138	dd_arrow.gif
+	    Same      		   13659	default.css
+	    Same      		    2324	default.js
+	    Same      		    1423	jquery.alphanumeric.js
+	    Same      		   51648	jquery.dd.js
+	    Same      		   85582	jquery.js
+	    Same      		    3581	jquery.tooltip.min.js
+	    Same      		  240439	jqueryui.js
+	    Same      		    1943	jQueryWresize.js
+	    Same      		    3954	json2.js
+	    Same      		   41412	knockout.js
+	    Same      		    8687	knockout.mapping.js
+	                   1	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Ui\ui-lightness\
+	    Same      		   33967	jquery-ui.custom.css
+	                  14	C:\Projects\Umbraco-Two-Way-Picker\packages\UmbracoCms.7.6.1\UmbracoFiles\Umbraco_Client\Ui\ui-lightness\images\
+	    Same      		     260	ui-bg_diagonals-thick_18_b81900_40x40.png
+	    Same      		     251	ui-bg_diagonals-thick_20_666666_40x40.png
+	    Same      		     178	ui-bg_flat_10_000000_40x100.png
+	    Same      		     104	ui-bg_glass_100_f6f6f6_1x400.png
+	    Same      		     125	ui-bg_glass_100_fdf5ce_1x400.png
+	    Same      		     105	ui-bg_glass_65_ffffff_1x400.png
+	    Same      		    3762	ui-bg_gloss-wave_35_f6a828_500x100.png
+	    Same      		      90	ui-bg_highlight-soft_100_eeeeee_1x100.png
+	    Same      		     129	ui-bg_highlight-soft_75_ffe45c_1x100.png
+	    Same      		    4369	ui-icons_222222_256x240.png
+	    Same      		    4369	ui-icons_228ef1_256x240.png
+	    Same      		    4369	ui-icons_ef8c08_256x240.png
+	    Same      		    4369	ui-icons_ffd27a_256x240.png
+	    Same      		    4369	ui-icons_ffffff_256x240.png
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       204         0       204         0         0         0
+   Files :       999       999         0         0         0         0
+   Bytes :    6.14 m    6.14 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           6440406000 Bytes/sec.
+   Speed :           368522.987 MegaBytes/min.
+   Ended : Wednesday, May 17, 2017 12:09:03 PM
+

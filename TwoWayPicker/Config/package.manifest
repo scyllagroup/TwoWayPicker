@@ -1,0 +1,29 @@
+{
+  "propertyEditors": [
+    {
+      "name": "Two Way Picker",
+      "alias": "TwoWayPicker",
+      "editor": {
+        "valueType": "STRING",
+        "view": "~/App_Plugins/TwoWayPicker/views/two.way.picker.html"
+      },
+      "prevalues": {
+        "fields": [
+          {
+            "description": "This is an example prevalue",
+            "key": "examplePreValue",
+            "label": "Example PreValue",
+            "view": "textstring"
+          }
+        ]
+      }
+    }
+  ],
+  "css": [
+    "~/App_Plugins/TwoWayPicker/css/two.way.picker.css"
+  ],
+  "javascript": [
+    "~/App_Plugins/TwoWayPicker/js/two.way.picker.js"
+  ]
+}
+

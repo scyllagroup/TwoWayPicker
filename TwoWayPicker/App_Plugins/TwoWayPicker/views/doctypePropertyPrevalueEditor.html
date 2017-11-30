@@ -1,0 +1,44 @@
+﻿<div ng-controller="TwoWayPicker.DoctypePropertyPrevalueController">
+    <div class="input-adder">
+        <div>
+            <div>
+                <label>Content Type: </label><br />
+                <select data-ng-options="i.alias for i in availableDocTypeAliases" ng-change="docTypeAliasChanged()" data-ng-model="selectedDocType"></select>
+            </div>
+            <div>
+                <label>Property: </label><br />
+                <select data-ng-options="i for i in currentPropertyAliases" data-ng-model="selectedDocType.selectedProperty"></select>
+                <br />
+            </div>
+            <div>
+                <button ng-disabled="loading" type="button" class="btn btn-success" ng-click="add(selectedDocType)">Add</button>
+            </div>
+
+            <div ng-show="loading">Loading...</div>
+        </div>
+        <div ng-repeat="item in model.value">
+            <input type="text" disabled value="{{item.alias}}" />
+            <input type="text" disabled value="{{item.selectedProperty}}" />
+            <button class="btn btn-danger" ng-click="remove(item)">Remove</button>
+        </div>
+        <br />
+        <div class="button-container">
+            <div class="icon-check umb-button__success status-indicator-purge-url" ng-class="{'-hidden': state !== 'purge-urls-success'}"></div>
+            <div class="umb-button__progress status-indicator-purge-url" style="top:0px; left:65%;" ng-class="{'-hidden': state !== 'purge-urls-busy'}"></div>
+        </div>
+    </div>
+
+    <style type="text/css">
+        .input-adder div {
+            margin: 10px 0;
+        }
+
+        .input-adder button {
+            margin-left: 10px;
+        }
+
+        input {
+            width: 300px;
+        }
+    </style>
+</div>
