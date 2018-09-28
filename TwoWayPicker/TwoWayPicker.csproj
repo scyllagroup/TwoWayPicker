@@ -26,6 +26,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -3250,6 +3251,7 @@
     <Content Include="Views\Partials\Grid\Bootstrap2-Fluid.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App_Code\" />
     <Folder Include="App_Data\Models\" />
     <Folder Include="App_Data\NuGetBackup\20160831-113812\Umbraco\" />
     <Folder Include="App_Data\NuGetBackup\20160831-113812\Umbraco_Client\" />

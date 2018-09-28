@@ -453,7 +453,6 @@ C:\git\TwoWayPicker\TwoWayPicker.Core\bin\Debug\Umbraco.ModelsBuilder.pdb
 C:\git\TwoWayPicker\TwoWayPicker.Core\bin\Debug\umbraco.providers.xml
 C:\git\TwoWayPicker\TwoWayPicker.Core\bin\Debug\Umbraco.Web.UI.xml
 C:\git\TwoWayPicker\TwoWayPicker.Core\bin\Debug\UmbracoExamine.xml
-C:\git\TwoWayPicker\TwoWayPicker.Core\obj\Debug\TwoWayPicker.Core.csprojAssemblyReference.cache
 C:\git\TwoWayPicker\TwoWayPicker.Core\obj\Debug\TwoWayPicker.Core.csproj.CoreCompileInputs.cache
 C:\git\TwoWayPicker\TwoWayPicker.Core\obj\Debug\TwoWayPicker.Core.csproj.CopyComplete
 C:\git\TwoWayPicker\TwoWayPicker.Core\obj\Debug\TwoWayPicker.Core.dll
