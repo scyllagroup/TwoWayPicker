@@ -264,3 +264,5 @@ __pycache__/
 **/App_Data/[Tt][Ee][Mm][Pp]/*
 **/App_Data/[Ll]ogs/*
 **/[Oo]bj/*
+**/packages/*
+**/App_Data/NuGetBackup/*
