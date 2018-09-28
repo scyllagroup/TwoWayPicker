@@ -263,6 +263,10 @@ __pycache__/
 # ----------------------------------------------------
 **/App_Data/[Tt][Ee][Mm][Pp]/*
 **/App_Data/[Ll]ogs/*
+**/App_Data/[Pp]review/*
 **/[Oo]bj/*
-**/packages/*
+!**/App_Data/[Pp]ackages/*
+!**/[Uu]mbraco/[Dd]eveloper/[Pp]ackages/*
 **/App_Data/NuGetBackup/*
+**/App_Data/umbraco.config
+**/App_Data/cache/
