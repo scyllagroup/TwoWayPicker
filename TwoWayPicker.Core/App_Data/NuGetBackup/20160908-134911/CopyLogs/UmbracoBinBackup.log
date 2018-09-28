@@ -1,35 +1,0 @@
-
--------------------------------------------------------------------------------
-   ROBOCOPY     ::     Robust File Copy for Windows                              
--------------------------------------------------------------------------------
-
-  Started : Thursday, September 8, 2016 1:49:12 PM
-   Source : C:\Projects\TwoWayPicker\TwoWayPicker.Core\bin\
-     Dest : C:\Projects\TwoWayPicker\TwoWayPicker.Core\App_Data\NuGetBackup\20160908-134911\bin\
-
-    Files : *.*
-	    
-  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
-
-------------------------------------------------------------------------------
-
-	                   2	C:\Projects\TwoWayPicker\TwoWayPicker.Core\bin\
-	    New File  		   29344	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll  0%  100%  
-	    New File  		    1805	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml  0%  100%  
-	  New Dir          2	C:\Projects\TwoWayPicker\TwoWayPicker.Core\bin\Debug\
-	    New File  		    4096	TwoWayPicker.Core.dll  0%  100%  
-	    New File  		    7680	TwoWayPicker.Core.pdb  0%  100%  
-
-------------------------------------------------------------------------------
-
-               Total    Copied   Skipped  Mismatch    FAILED    Extras
-    Dirs :         2         1         0         0         0         0
-   Files :         4         4         0         0         0         0
-   Bytes :    41.9 k    41.9 k         0         0         0         0
-   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :             1192361 Bytes/sec.
-   Speed :              68.227 MegaBytes/min.
-   Ended : Thursday, September 8, 2016 1:49:12 PM
-
